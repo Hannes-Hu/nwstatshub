@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #0c0b0a;
+  background-image: radial-gradient(rgba(70, 60, 50, 0.15) 1px, transparent 1px);
+  background-size: 32px 32px;
+  font-family: 'Space Grotesk', sans-serif;
+  color: #e7dfd3;
+  line-height: 1.4;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1f1c18;
+}
+::-webkit-scrollbar-thumb {
+  background: #ba5a3a;
+  border-radius: 0px;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" opacity="0.03"><path d="M0 0 L200 200 M200 0 L0 200" stroke="%23ffffff" stroke-width="0.6"/><circle cx="100" cy="100" r="2" fill="%23ffffff"/></svg>');
+  z-index: 999;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 28px;
+}
