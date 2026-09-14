@@ -33,9 +33,10 @@
     "2023": 10,
     "2024": 4,
     "2025": 9,
+    "2026": 9,
     "Nationality": "England",
     "Name": "Python",
-    "Total": 224,
+    "Total": 233,
     "Achievements": [
       {
         "placement": 1,
@@ -61,6 +62,21 @@
         "placement": 3,
         "tournament": "BYT - Revival Series S2",
         "year": 2025
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -79,10 +95,10 @@
     "2023": 9,
     "2024": 3,
     "2025": 7,
-    "2026": 11.5,
+    "2026": 15.5,
     "Nationality": "France",
     "Name": "LeBrave",
-    "Total": 223.5,
+    "Total": 227.5,
     "Achievements": [
       {
         "placement": 2,
@@ -97,6 +113,21 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -212,10 +243,10 @@
     "2023": 4,
     "2024": 3,
     "2025": 1,
-    "2026": 7,
+    "2026": 9,
     "Nationality": "France",
     "Name": "HaZe",
-    "Total": 165.5,
+    "Total": 167.5,
     "Achievements": [
       {
         "placement": 1,
@@ -230,6 +261,16 @@
       {
         "placement": 1,
         "tournament": "R. Tournament #15",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -377,10 +418,10 @@
     "2023": 7,
     "2024": 2,
     "2025": 8,
-    "2026": 11,
+    "2026": 14,
     "Nationality": "Czech Republic",
     "Name": "Kore",
-    "Total": 139.5,
+    "Total": 142.5,
     "Achievements": [
       {
         "placement": 1,
@@ -406,6 +447,16 @@
         "placement": 3,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -424,10 +475,10 @@
     "2023": 11,
     "2024": 7,
     "2025": 22.5,
-    "2026": 5,
+    "2026": 17,
     "Nationality": "Sweden",
     "Name": "Achilles",
-    "Total": 141.5,
+    "Total": 153.5,
     "Achievements": [
       {
         "placement": 1,
@@ -467,6 +518,36 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #14",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -596,10 +677,10 @@
     "2023": 8,
     "2024": 8,
     "2025": 24,
-    "2026": 10,
+    "2026": 26,
     "Nationality": "Germany",
     "Name": "Jakob",
-    "Total": 141,
+    "Total": 157,
     "Achievements": [
       {
         "placement": 3,
@@ -660,6 +741,36 @@
         "placement": 1,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -678,10 +789,10 @@
     "2023": 12.5,
     "2024": 19.5,
     "2025": 10,
-    "2026": 7,
+    "2026": 10,
     "Nationality": "France",
     "Name": "Chuckster",
-    "Total": 120,
+    "Total": 123,
     "Achievements": [
       {
         "placement": "3/4",
@@ -701,6 +812,21 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": "3",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
         "year": 2026
       }
     ]
@@ -795,10 +921,10 @@
     "2023": 15.5,
     "2024": 20.5,
     "2025": 25,
-    "2026": 7,
+    "2026": 9,
     "Nationality": "France",
     "Name": "RedFeu",
-    "Total": 128,
+    "Total": 130,
     "Achievements": [
       {
         "placement": "3/4",
@@ -849,6 +975,16 @@
         "placement": 1,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
       }
     ]
   },
@@ -867,10 +1003,10 @@
     "2023": 10,
     "2024": 20.5,
     "2025": 25.5,
-    "2026": 5,
+    "2026": 11,
     "Nationality": "Poland",
     "Name": "Zenon",
-    "Total": 129,
+    "Total": 135,
     "Achievements": [
       {
         "placement": 2,
@@ -915,6 +1051,26 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #15",
+        "year": 2026
+      },
+      {
+        "placement": "3",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -1039,10 +1195,10 @@
     "2023": 2.5,
     "2024": 8.5,
     "2025": 31,
-    "2026": 14,
+    "2026": 30,
     "Nationality": "Netherlands",
     "Name": "Movement",
-    "Total": 135.5,
+    "Total": 151.5,
     "Achievements": [
       {
         "placement": "1",
@@ -1103,6 +1259,36 @@
         "placement": 1,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -1121,10 +1307,10 @@
     "2023": 2.5,
     "2024": 19,
     "2025": 5,
-    "2026": 7,
+    "2026": 9,
     "Nationality": "France",
     "Name": "TheDeaD",
-    "Total": 104,
+    "Total": 106,
     "Achievements": [
       {
         "placement": "2",
@@ -1149,6 +1335,11 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
         "year": 2026
       }
     ]
@@ -1272,10 +1463,10 @@
     "2023": 3,
     "2024": 11,
     "2025": 25,
-    "2026": 11,
+    "2026": 18,
     "Nationality": "France",
     "Name": "ClaSh",
-    "Total": 118,
+    "Total": 125,
     "Achievements": [
       {
         "placement": 3,
@@ -1330,6 +1521,31 @@
       {
         "placement": 1,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": "3",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -1619,10 +1835,10 @@
     "2023": 9.5,
     "2024": 20.5,
     "2025": 35,
-    "2026": 9,
+    "2026": 18,
     "Nationality": "England",
     "Name": "HiReaper",
-    "Total": 105,
+    "Total": 114,
     "Achievements": [
       {
         "placement": "3/4",
@@ -1682,6 +1898,31 @@
       {
         "placement": 3,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": "1",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -1815,10 +2056,10 @@
     "2023": 7.5,
     "2024": 4,
     "2025": 14,
-    "2026": 3,
+    "2026": 14,
     "Nationality": "France",
     "Name": "Narrow",
-    "Total": 75,
+    "Total": 86,
     "Achievements": [
       {
         "placement": "1",
@@ -1854,6 +2095,26 @@
         "placement": 3,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -1872,14 +2133,25 @@
     "2023": 7,
     "2024": 4,
     "2025": 1,
+    "2026": 4,
     "Nationality": "Netherlands",
     "Name": "Melsyo",
-    "Total": 61.5,
+    "Total": 65.5,
     "Achievements": [
       {
         "placement": 3,
         "tournament": "R. Tournament #10",
         "year": 2025
+      },
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -1936,10 +2208,10 @@
     "2023": 13.5,
     "2024": 20.5,
     "2025": 31,
-    "2026": 10,
+    "2026": 19,
     "Nationality": "Ireland",
     "Name": "Giorno",
-    "Total": 95,
+    "Total": 104,
     "Achievements": [
       {
         "placement": "3/4",
@@ -2000,6 +2272,31 @@
         "placement": 3,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": "1",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
+        "year": 2026
       }
     ]
   },
@@ -2037,10 +2334,10 @@
     "2023": 9,
     "2024": 14,
     "2025": 17,
-    "2026": 9,
+    "2026": 13,
     "Nationality": "France",
     "Name": "Kennedy",
-    "Total": 78.5,
+    "Total": 82.5,
     "Achievements": [
       {
         "placement": 2,
@@ -2080,6 +2377,16 @@
       {
         "placement": 1,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -2156,10 +2463,10 @@
     "2023": 14,
     "2024": 10,
     "2025": 26,
-    "2026": 15,
+    "2026": 28,
     "Nationality": "Netherlands",
     "Name": "sHype",
-    "Total": 85,
+    "Total": 98,
     "Achievements": [
       {
         "placement": 1,
@@ -2205,6 +2512,36 @@
         "placement": 1,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -2223,14 +2560,20 @@
     "2023": 0,
     "2024": 3,
     "2025": 10,
+    "2026": 2,
     "Nationality": "Finland",
     "Name": "Janne",
-    "Total": 56,
+    "Total": 58,
     "Achievements": [
       {
         "placement": 3,
         "tournament": "BYT - Revival Series S2",
         "year": 2025
+      },
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
       }
     ]
   },
@@ -2435,10 +2778,10 @@
     "2023": 8,
     "2024": 11,
     "2025": 15,
-    "2026": 6,
+    "2026": 8,
     "Nationality": "France",
     "Name": "Flo",
-    "Total": 60,
+    "Total": 62,
     "Achievements": [
       {
         "placement": 1,
@@ -2459,6 +2802,11 @@
         "placement": 2,
         "tournament": "R. Tournament #10",
         "year": 2025
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -2619,10 +2967,10 @@
     "2023": 14,
     "2024": 22,
     "2025": 28,
-    "2026": 17,
+    "2026": 25,
     "Nationality": "France",
     "Name": "Ronaldinho",
-    "Total": 81,
+    "Total": 89,
     "Achievements": [
       {
         "placement": 2,
@@ -2683,6 +3031,26 @@
         "placement": 1,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -2701,10 +3069,10 @@
     "2023": 4.5,
     "2024": 3,
     "2025": 0,
-    "2026": 2,
+    "2026": 5,
     "Nationality": "Belgium",
     "Name": "Ilypa",
-    "Total": 39.5,
+    "Total": 42.5,
     "Achievements": [
       {
         "placement": 2,
@@ -2719,6 +3087,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -2822,10 +3195,10 @@
     "2023": 10,
     "2024": 2,
     "2025": 11.5,
-    "2026": 2,
+    "2026": 9,
     "Nationality": "France",
     "Name": "Coco_Ayala",
-    "Total": 48.5,
+    "Total": 55.5,
     "Achievements": [
       {
         "placement": 2,
@@ -2855,6 +3228,31 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #14",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": "3",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -2945,10 +3343,10 @@
     "2023": 0,
     "2024": 2,
     "2025": 5,
-    "2026": 2,
+    "2026": 5,
     "Nationality": "England",
     "Name": "Blitzkrieg",
-    "Total": 41,
+    "Total": 44,
     "Achievements": [
       {
         "placement": "1",
@@ -2958,6 +3356,11 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #14",
+        "year": 2026
+      },
+      {
+        "placement": "1",
+        "tournament": "Movements 4v4",
         "year": 2026
       }
     ]
@@ -3072,10 +3475,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 8,
-    "2026": 6,
+    "2026": 9,
     "Nationality": "Austria",
     "Name": "DarkTemplar",
-    "Total": 44.5,
+    "Total": 47.5,
     "RealName": "Alex",
     "BirthDate": "1999-03-12",
     "Achievements": [
@@ -3118,6 +3521,11 @@
         "placement": 1,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
+        "year": 2026
       }
     ]
   },
@@ -3136,10 +3544,10 @@
     "2023": 12,
     "2024": 8.5,
     "2025": 12,
-    "2026": 1,
+    "2026": 2,
     "Nationality": "Poland",
     "Name": "Naatsuu",
-    "Total": 40.5,
+    "Total": 41.5,
     "Achievements": [
       {
         "placement": "2",
@@ -3164,6 +3572,11 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -3366,10 +3779,10 @@
     "2023": 1.5,
     "2024": 6,
     "2025": 11.5,
-    "2026": 9,
+    "2026": 12,
     "Nationality": "Ukraine",
     "Name": "Desant",
-    "Total": 47,
+    "Total": 50,
     "Achievements": [
       {
         "placement": "3/4",
@@ -3420,6 +3833,11 @@
         "placement": 2,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
+        "year": 2026
       }
     ]
   },
@@ -3438,10 +3856,10 @@
     "2023": 9.5,
     "2024": 4,
     "2025": 11.5,
-    "2026": 9,
+    "2026": 14,
     "Nationality": "Germany",
     "Name": "Wursti",
-    "Total": 47.0,
+    "Total": 52.0,
     "RealName": "",
     "BirthDate": "2001-01-15",
     "Achievements": [
@@ -3493,6 +3911,21 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #14",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -3690,10 +4123,10 @@
     "2023": 2,
     "2024": 21,
     "2025": 7,
-    "2026": 7,
+    "2026": 9,
     "Nationality": "France",
     "Name": "Fluffy",
-    "Total": 37,
+    "Total": 39,
     "Achievements": [
       {
         "placement": 2,
@@ -3714,6 +4147,11 @@
         "placement": 2,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
+        "year": 2026
       }
     ]
   },
@@ -3732,10 +4170,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 5.5,
-    "2026": 9,
+    "2026": 12,
     "Nationality": "Spain",
     "Name": "Mr_T",
-    "Total": 38,
+    "Total": 41,
     "Achievements": [
       {
         "placement": 2,
@@ -3765,6 +4203,16 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -3924,10 +4372,10 @@
     "2023": 3.5,
     "2024": 6,
     "2025": 6,
-    "2026": 2,
+    "2026": 5,
     "Nationality": "Ukraine",
     "Name": "Tw1sT[eR]*",
-    "Total": 29.5,
+    "Total": 32.5,
     "Achievements": [
       {
         "placement": "3/4",
@@ -3952,6 +4400,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -4054,10 +4507,10 @@
     "2023": 4,
     "2024": 10,
     "2025": 18,
-    "2026": 8,
+    "2026": 15,
     "Nationality": "Netherlands",
     "Name": "Ri0T",
-    "Total": 42,
+    "Total": 49,
     "RealName": "Jayden",
     "BirthDate": "2007-06-01",
     "Achievements": [
@@ -4095,6 +4548,21 @@
         "placement": 1,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -4113,10 +4581,10 @@
     "2023": 4,
     "2024": 6.5,
     "2025": 14,
-    "2026": 4,
+    "2026": 8,
     "Nationality": "Poland",
     "Name": "Ciomcio",
-    "Total": 35.5,
+    "Total": 39.5,
     "Achievements": [
       {
         "placement": "2",
@@ -4152,6 +4620,16 @@
         "placement": 3,
         "tournament": "R. Tournament #17",
         "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -4170,10 +4648,10 @@
     "2023": 11,
     "2024": 7,
     "2025": 9,
-    "2026": 1,
+    "2026": 14,
     "Nationality": "Greece",
     "Name": "Stoiki",
-    "Total": 28.5,
+    "Total": 41.5,
     "Achievements": [
       {
         "placement": 1,
@@ -4203,6 +4681,31 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -4570,17 +5073,17 @@
     "2016": 0,
     "2017": 0,
     "2018": 0,
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
+    "2019": 2,
+    "2020": 3,
+    "2021": 1,
     "2022": 2,
     "2023": 0,
     "2024": 14,
     "2025": 13,
-    "2026": 7,
+    "2026": 11,
     "Nationality": "France",
     "Name": "Dashie",
-    "Total": 36,
+    "Total": 46,
     "Achievements": [
       {
         "placement": 2,
@@ -4611,6 +5114,16 @@
         "placement": 2,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -4629,10 +5142,10 @@
     "2023": 7.5,
     "2024": 10,
     "2025": 0,
-    "2026": 4,
+    "2026": 9,
     "Nationality": "France",
     "Name": "BlueWinx",
-    "Total": 21.5,
+    "Total": 26.5,
     "Achievements": [
       {
         "placement": 1,
@@ -4642,6 +5155,21 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
         "year": 2026
       }
     ]
@@ -4703,10 +5231,10 @@
     "2023": 0.5,
     "2024": 2,
     "2025": 2,
-    "2026": 6,
+    "2026": 9,
     "Nationality": "Ukraine",
     "Name": "Yoda",
-    "Total": 25.5,
+    "Total": 28.5,
     "Achievements": [
       {
         "placement": "3/4",
@@ -4726,6 +5254,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -4849,6 +5382,32 @@
         "placement": 2,
         "tournament": "BYT - Revival Series S1",
         "year": 2025
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 3,
+    "Nationality": "Belarus",
+    "Name": "Ghost",
+    "Total": 3,
+    "Achievements": [
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
@@ -5038,10 +5597,10 @@
     "2023": 7,
     "2024": 6,
     "2025": 7,
-    "2026": 7,
+    "2026": 11,
     "Nationality": "France",
     "Name": "Ruler",
-    "Total": 27,
+    "Total": 31,
     "Achievements": [
       {
         "placement": 1,
@@ -5056,6 +5615,16 @@
       {
         "placement": 1,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -5170,10 +5739,10 @@
     "2023": 9,
     "2024": 0,
     "2025": 8,
-    "2026": 10,
+    "2026": 16,
     "Nationality": "Germany",
     "Name": "sennii",
-    "Total": 32,
+    "Total": 38,
     "Achievements": [
       {
         "placement": 1,
@@ -5208,6 +5777,26 @@
       {
         "placement": 1,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -5341,14 +5930,20 @@
     "2023": 6,
     "2024": 5,
     "2025": 3,
+    "2026": 2,
     "Nationality": "Bulgaria",
     "Name": "Yovko",
-    "Total": 14,
+    "Total": 16,
     "Achievements": [
       {
         "placement": 1,
         "tournament": "Wu(o)rst Tournament 6v6",
         "year": 2023
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
       }
     ]
   },
@@ -5602,9 +6197,17 @@
     "2023": 7,
     "2024": 0,
     "2025": 1,
+    "2026": 3,
     "Nationality": "Germany",
     "Name": "Vemon",
-    "Total": 13
+    "Total": 16,
+    "Achievements":[
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -5868,10 +6471,10 @@
     "2023": 0,
     "2024": 5.5,
     "2025": 5,
-    "2026": 4,
+    "2026": 8,
     "Nationality": "Belgium",
     "Name": "Xaos",
-    "Total": 19.5,
+    "Total": 23.5,
     "Achievements": [
       {
         "placement": 2,
@@ -5886,6 +6489,16 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -6254,14 +6867,20 @@
     "2023": 0,
     "2024": 0,
     "2025": 10,
+    "2026": 2,
     "Nationality": "Bulgaria",
     "Name": "Mech",
-    "Total": 17,
+    "Total": 19,
     "Achievements": [
       {
         "placement": 3,
         "tournament": "BYT - Revival Series S2",
         "year": 2025
+      },
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
       }
     ]
   },
@@ -6547,14 +7166,24 @@
     "2023": 2,
     "2024": 0,
     "2025": 0,
-    "2026": 5,
+    "2026": 8,
     "Nationality": "Sweden",
     "Name": "EPICxPIZZA",
-    "Total": 13.5,
+    "Total": 16.5,
     "Achievements":[
       {
         "placement": 2,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -6584,7 +7213,7 @@
     "2014": 0,
     "2015": 0,
     "2016": 1,
-    "2017": 7,
+    "2017": 9,
     "2018": 0.5,
     "2019": 0,
     "2020": 0,
@@ -6595,7 +7224,7 @@
     "2025": 0,
     "Nationality": "Slovakia",
     "Name": "Salakien",
-    "Total": 8.5
+    "Total": 10.5
   },
   {
     "2012": 0,
@@ -6612,9 +7241,17 @@
     "2023": 0,
     "2024": 3,
     "2025": 1,
+    "2026": 2,
     "Nationality": "Scotland",
     "Name": "Fenton",
-    "Total": 9
+    "Total": 11,
+    "Achievements":[
+      {
+        "placement": "2",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 6,
@@ -6916,10 +7553,10 @@
     "2023": 5,
     "2024": 0,
     "2025": 6,
-    "2026": 5,
+    "2026": 7,
     "Nationality": "France",
     "Name": "Fluxxy",
-    "Total": 16,
+    "Total": 18,
     "Achievements":[
       {
         "placement": 1,
@@ -6929,6 +7566,11 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
         "year": 2026
       }
     ]
@@ -7290,10 +7932,10 @@
     "2023": 1,
     "2024": 3.5,
     "2025": 0,
-    "2026": 13,
+    "2026": 14,
     "Nationality": "Poland",
     "Name": "Dundi",
-    "Total": 19.5,
+    "Total": 20.5,
     "Achievements": [
       {
         "placement": 2,
@@ -7318,6 +7960,11 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -7579,25 +8226,6 @@
     "2016": 0,
     "2017": 0,
     "2018": 0,
-    "2019": 2,
-    "2020": 3,
-    "2021": 1,
-    "2022": 0,
-    "2023": 0,
-    "2024": 0,
-    "2025": 0,
-    "Nationality": "France",
-    "Name": "Zombrax",
-    "Total": 6
-  },
-  {
-    "2012": 0,
-    "2013": 0,
-    "2014": 0,
-    "2015": 0,
-    "2016": 0,
-    "2017": 0,
-    "2018": 0,
     "2019": 5,
     "2020": 1,
     "2021": 0,
@@ -7613,6 +8241,32 @@
         "placement": 1,
         "tournament": "R. Tournament #10",
         "year": 2025
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 3,
+    "Nationality": "USA",
+    "Name": "GlennofNW",
+    "Total": 3,
+    "Achievements": [
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
       }
     ]
   },
@@ -7942,14 +8596,19 @@
     "2023": 3,
     "2024": 1,
     "2025": 3,
-    "2026": 4,
+    "2026": 5,
     "Nationality": "Germany",
     "Name": "Ragn4r",
-    "Total": 9,
+    "Total": 10,
     "Achievements":[
       {
         "placement": 1,
         "tournament": "R. Tournament #14",
+        "year": 2026
+      },
+      {
+        "placement": "3",
+        "tournament": "Movements 4v4",
         "year": 2026
       }
     ]
@@ -8176,10 +8835,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 3.5,
-    "2026": 2,
+    "2026": 3,
     "Nationality": "Belgium",
     "Name": "Vegi",
-    "Total": 10.5,
+    "Total": 11.5,
     "Achievements": [
       {
         "placement": "3/4",
@@ -8189,6 +8848,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -8489,10 +9153,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 2.5,
-    "2026": 3,
+    "2026": 6,
     "Nationality": "Austria",
     "Name": "Stefan",
-    "Total": 5.5,
+    "Total": 8.5,
     "Achievements": [
       {
         "placement": "3/4",
@@ -8502,6 +9166,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -8775,10 +9444,10 @@
     "2023": 0.5,
     "2024": 4,
     "2025": 3,
-    "2026": 2,
+    "2026": 5,
     "Nationality": "Ukraine",
     "Name": "xodok",
-    "Total": 9.5,
+    "Total": 12.5,
     "Achievements": [
       {
         "placement": "3/4",
@@ -8793,6 +9462,11 @@
       {
         "placement": 2,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -8869,14 +9543,30 @@
     "2023": 0,
     "2024": 3,
     "2025": 8.5,
+    "2026": 7,
     "Nationality": "Scotland",
     "Name": "Chambering",
-    "Total": 12.5,
+    "Total": 19.5,
     "Achievements": [
       {
         "placement": "3/4",
         "tournament": "BYT Fantasy League",
         "year": 2025
+      },
+      {
+        "placement": "1",
+        "tournament": "Movements 4v4",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
+        "year": 2026
       }
     ]
   },
@@ -8895,9 +9585,17 @@
     "2023": 1,
     "2024": 3,
     "2025": 2,
+    "2026": 3,
     "Nationality": "Azerbaijan",
     "Name": "Bonaparte",
-    "Total": 6
+    "Total": 6,
+    "Achievements":[
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -8933,9 +9631,17 @@
     "2023": 0,
     "2024": 2,
     "2025": 0,
+    "2026": 3,
     "Nationality": "Russia",
     "Name": "Vengeance",
-    "Total": 4
+    "Total": 4,
+    "Achievements":[
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 4,
@@ -9738,10 +10444,17 @@
     "2023": 1,
     "2024": 0,
     "2025": 3,
-    "2026": 3,
+    "2026": 4,
     "Nationality": "France",
     "Name": "Fred2",
-    "Total": 7
+    "Total": 8,
+    "Achievements":[
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -9838,10 +10551,17 @@
     "2023": 0,
     "2024": 0,
     "2025": 0,
-    "2026": 2,
+    "2026": 4,
     "Nationality": "England",
     "Name": "Bubble",
-    "Total": 2
+    "Total": 4,
+    "Achievements":[
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -9858,14 +10578,24 @@
     "2023": 0,
     "2024": 0,
     "2025": 0,
-    "2026": 3,
+    "2026": 6,
     "Nationality": "France",
     "Name": "DarkWinx",
-    "Total": 3,
+    "Total": 6,
     "Achievements":[
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -10503,14 +11233,24 @@
     "2023": 3,
     "2024": 0,
     "2025": 0,
-    "2026": 1,
+    "2026": 4,
     "Nationality": "France",
     "Name": "Mx[T]er",
-    "Total": 4,
+    "Total": 7,
     "Achievements":[
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -11914,10 +12654,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 8,
-    "2026": 8,
+    "2026": 11,
     "Nationality": "France",
     "Name": "Lebrun",
-    "Total": 16,
+    "Total": 19,
     "Achievements": [
       {
         "placement": 3,
@@ -11932,6 +12672,16 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -11951,10 +12701,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 6,
-    "2026": 4,
+    "2026": 6,
     "Nationality": "Poland",
     "Name": "Niki",
-    "Total": 10,
+    "Total": 12,
     "Achievements": [
       {
         "placement": 1,
@@ -11964,6 +12714,11 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -12468,10 +13223,10 @@
     "2023": 2,
     "2024": 0,
     "2025": 4,
-    "2026": 8,
+    "2026": 14,
     "Nationality": "Germany",
     "Name": "Monmon",
-    "Total": 11,
+    "Total": 17,
     "Achievements": [
       {
         "placement": 2,
@@ -12492,6 +13247,26 @@
         "placement": 1,
         "tournament": "EGC Season 1",
         "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #20",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #22",
+        "year": 2026
       }
     ]
   },
@@ -12510,15 +13285,20 @@
     "2023": 0,
     "2024": 0,
     "2025": 4,
-    "2026": 1,
+    "2026": 3,
     "Nationality": "Germany",
     "Name": "Shadow",
-    "Total": 5,
+    "Total": 7,
     "Achievements": [
       {
         "placement": 2,
         "tournament": "BYT Fantasy League",
         "year": 2025
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
+        "year": 2026
       }
     ]
   },
@@ -12564,11 +13344,17 @@
     "2023": 0,
     "2024": 0,
     "2025": 0,
-    "2026": 3,
+    "2026": 6,
     "Nationality": "France",
     "Name": "Ayzox",
-    "Total": 3,
-    "Achievements": []
+    "Total": 6,
+    "Achievements": [
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -12917,25 +13703,6 @@
     "2025": 0,
     "Nationality": "Czech Republic",
     "Name": "LesakJ",
-    "Total": 2
-  },
-  {
-    "2012": 0,
-    "2013": 0,
-    "2014": 0,
-    "2015": 0,
-    "2016": 0,
-    "2017": 2,
-    "2018": 0,
-    "2019": 0,
-    "2020": 0,
-    "2021": 0,
-    "2022": 0,
-    "2023": 0,
-    "2024": 0,
-    "2025": 0,
-    "Nationality": "Czech Republic",
-    "Name": "Apollo",
     "Total": 2
   },
   {
@@ -13545,6 +14312,195 @@
     "Nationality": "Ireland",
     "Name": "Mac",
     "Total": 2
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 2,
+    "Nationality": "Ireland",
+    "Name": "Infinant",
+    "Total": 2,
+    "Achievements": [
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 3,
+    "Nationality": "Ukraine",
+    "Name": "Moon",
+    "Total": 3,
+    "Achievements": [
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 2,
+    "Nationality": "Belgium",
+    "Name": "Kamieltoe",
+    "Total": 2,
+    "Achievements": [
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 2,
+    "Nationality": "Poland",
+    "Name": "Loonginus",
+    "Total": 2,
+    "Achievements": [
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 2,
+    "Nationality": "Russia",
+    "Name": "DeadSocks",
+    "Total": 2,
+    "Achievements": [
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 2,
+    "Nationality": "Russia",
+    "Name": "Vostok",
+    "Total": 2,
+    "Achievements": [
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "2012": 0,
+    "2013": 0,
+    "2014": 0,
+    "2015": 0,
+    "2016": 0,
+    "2017": 0,
+    "2018": 0,
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 0,
+    "2025": 0,
+    "2026": 3,
+    "Nationality": "Georgia",
+    "Name": "NiKa",
+    "Total": 3,
+    "Achievements": [
+      {
+        "placement": 1,
+        "tournament": "R. European Draft",
+        "year": 2026
+      }
+    ]
   },
   {
     "2012": 0,
@@ -14734,10 +15690,10 @@
     "2023": 0,
     "2024": 1,
     "2025": 2,
-    "2026": 2,
+    "2026": 5,
     "Nationality": "Poland",
     "Name": "browarx",
-    "Total": 5,
+    "Total": 8,
     "Achievements": [
       {
         "placement": 3,
@@ -14747,6 +15703,11 @@
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -15032,10 +15993,10 @@
     "2023": 1,
     "2024": 0,
     "2025": 2,
-    "2026": 6,
+    "2026": 8,
     "Nationality": "Germany",
     "Name": "Domi",
-    "Total": 9,
+    "Total": 11,
     "Achievements":[
       {
         "placement": 1,
@@ -15045,6 +16006,11 @@
       {
         "placement": 2,
         "tournament": "EGC Season 1",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #20",
         "year": 2026
       }
     ]
@@ -15083,14 +16049,19 @@
     "2023": 0,
     "2024": 0,
     "2025": 0,
-    "2026": 1,
+    "2026": 2,
     "Nationality": "France",
     "Name": "Aigle",
-    "Total": 1,
+    "Total": 2,
     "Achievements":[
       {
         "placement": 3,
         "tournament": "R. Tournament #16",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #19",
         "year": 2026
       }
     ]
@@ -17564,10 +18535,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 2,
-    "2026": 6,
+    "2026": 7,
     "Nationality": "France",
     "Name": "LenoX",
-    "Total": 8,
+    "Total": 9,
     "Achievements": [
       {
         "placement": 3,
@@ -17577,6 +18548,11 @@
       {
         "placement": 1,
         "tournament": "R. Tournament #15",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. European Draft",
         "year": 2026
       }
     ]
@@ -17719,10 +18695,10 @@
     "2023": 0,
     "2024": 0,
     "2025": 0,
-    "2026": 5,
+    "2026": 14,
     "Nationality": "England",
     "Name": "Jake",
-    "Total": 5,
+    "Total": 14,
     "Achievements": [
       {
         "placement": 2,
@@ -17732,6 +18708,26 @@
       {
         "placement": 1,
         "tournament": "R. Tournament #17",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #18",
+        "year": 2026
+      },
+      {
+        "placement": 2,
+        "tournament": "R. Tournament #19",
+        "year": 2026
+      },
+      {
+        "placement": 1,
+        "tournament": "R. Tournament #21",
+        "year": 2026
+      },
+      {
+        "placement": 3,
+        "tournament": "R. Tournament #22",
         "year": 2026
       }
     ]
@@ -17777,14 +18773,20 @@
     "2023": 0,
     "2024": 0,
     "2025": 0.5,
+    "2026": 2,
     "Nationality": "Ukraine",
     "Name": "DanTheMan",
-    "Total": 0.5,
+    "Total": 2.5,
     "Achievements": [
       {
         "placement": "3/4",
         "tournament": "BYT Fantasy League",
         "year": 2025
+      },
+      {
+        "placement": 2,
+        "tournament": "R. European Draft",
+        "year": 2026
       }
     ]
   },
